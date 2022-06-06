@@ -10,14 +10,41 @@ h3 {
     color: rgba(0, 139, 127, 0.8);
     font-size: 16px;
 }
+
 #keruletek {
     color: coral;
     text-align: left;
-    text-transform: lowercase;    
+    text-transform: lowercase;
 }
 
 .table {
     color: darkblue;
     font-size: 14px;
     font-weight: bold;
+}
+
+#hambi {
+    border: 20px;
+    border-style: groove;
+    border-color: rgb(200, 255, 255);
+}
+
+.bold {
+    font-size: 16px;
+    font-weight: bold;
+    color: brown;
+}
+
+#hambiIcon {
+   width: 196px; 
+}
+
+.img-div {
+    background-color: rgb(246, 255, 127);
+    width: 500px;
+}
+
+#hambiIcon2 {
+    width: 196px;
+    position: fixed;
 }
