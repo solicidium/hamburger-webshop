@@ -10,3 +10,14 @@ h3 {
     color: rgba(0, 139, 127, 0.8);
     font-size: 16px;
 }
+#keruletek {
+    color: coral;
+    text-align: left;
+    text-transform: lowercase;    
+}
+
+.table {
+    color: darkblue;
+    font-size: 14px;
+    font-weight: bold;
+}
